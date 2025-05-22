@@ -1,12 +1,12 @@
 basic:
-    name: 'Dr. Nathanial Koelpin'
+    name: 'Laron Gibson'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://hansen.com/autem-cum-dolore-at'
-        - 'https://www.streich.com/cumque-rerum-voluptatem-similique-recusandae.html'
+        - 'https://www.klein.org/'
+        - 'https://www.beahan.com/'
     monitoring:
         days: {  }
         type: ''
